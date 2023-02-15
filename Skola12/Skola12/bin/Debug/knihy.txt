@@ -1,0 +1,3 @@
+Název;Autor;Umístìní;Žánr;Datum
+Zaklínaè;Sapkowski;Polsko;Fantazy;2000
+Hobit;Tolkien;Anglie;Fantazy;1937

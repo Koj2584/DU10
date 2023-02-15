@@ -1,0 +1,12 @@
+G:\Dokumenty\Csharp\Skola12\Skola12\bin\Debug\Skola12.exe.config
+G:\Dokumenty\Csharp\Skola12\Skola12\bin\Debug\Skola12.exe
+G:\Dokumenty\Csharp\Skola12\Skola12\bin\Debug\Skola12.pdb
+G:\Dokumenty\Csharp\Skola12\Skola12\obj\Debug\Skola12.Form1.resources
+G:\Dokumenty\Csharp\Skola12\Skola12\obj\Debug\Skola12.Properties.Resources.resources
+G:\Dokumenty\Csharp\Skola12\Skola12\obj\Debug\Skola12.csproj.GenerateResource.cache
+G:\Dokumenty\Csharp\Skola12\Skola12\obj\Debug\Skola12.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Csharp\Skola12\Skola12\obj\Debug\Skola12.exe
+G:\Dokumenty\Csharp\Skola12\Skola12\obj\Debug\Skola12.pdb
+G:\Dokumenty\Csharp\Skola12\Skola12\obj\Debug\Skola12.Form2.resources
+G:\Dokumenty\Csharp\Skola12\Skola12\obj\Debug\Skola12.csproj.AssemblyReference.cache
+G:\Dokumenty\Csharp\Skola12\Skola12\obj\Debug\Skola12.csproj.SuggestedBindingRedirects.cache
